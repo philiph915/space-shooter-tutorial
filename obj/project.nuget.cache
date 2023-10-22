@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nq5pycdq+2aQGoh3UFdWZN9Mt4xLD0KYLXZ6LoCNVe6I87nMCcPQLEZSLUwY96e2s2XgwVq5NZt2Yf72JOKoAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phili\\Documents\\MonogameProjects\\space-shooter-tutorial\\space-shooter-tutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phili\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
